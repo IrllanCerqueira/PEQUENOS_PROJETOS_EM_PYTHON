@@ -1,0 +1,6 @@
+print('ALUGUÉL DE CARROS')
+print('---'*17)
+km= float(input('Quantos KM foram percorridos? '))
+dias= int(input('Por quantos dias o veiculo foi alugado? '))
+somatot= (dias*60)+(km*0.15)
+print('O custo referente ao alugúel resultou em: R$ {:.2f}'.format(somatot))

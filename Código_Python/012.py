@@ -1,0 +1,13 @@
+n= 'Curso em Video Python'
+print(len(n))
+print(n[0:14])
+print(n[14:21])
+print(n.count('o'))
+print(n.find('deo'))
+print(n.upper())
+print(n.lower())
+print('video'in(n))
+print(n.replace('Video','android'))
+print(n.capitalize())
+print(n.title())
+print(n.strip())
