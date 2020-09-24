@@ -41,3 +41,4 @@ else:
     print('>>>>> OPÇÃO INVÁLIDA <<<<<<')
     time.sleep(.5)
     print('>>>>> TENTE NOVAMENTE <<<<<')
+    
