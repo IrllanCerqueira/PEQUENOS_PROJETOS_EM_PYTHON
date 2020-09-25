@@ -1,3 +1,3 @@
-# PEQUENOS_PROJETOS_EM_PYTHON
+# PEQUENOS PROJETOS EM PYTHON
 
- Projetos simplis, baseado na linguagem python.
+> **Projetos simplis, baseado na linguagem python.**
